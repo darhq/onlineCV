@@ -1,0 +1,98 @@
+#wrapper
+{
+	width:960px;
+	height:%;
+	background:black;
+	margin:0 auto;
+	
+}
+
+#header
+{
+	width:100%;
+	height:15%;
+	background:darkSlateGrey;
+	text-align: center;
+
+	
+}
+
+#menu
+{
+	width:100%;
+	height:15%;
+	background:grey;
+	margin:0 auto;
+}
+
+table
+{	width:100%;
+	text-align: center;
+	border: 1px solid black;
+}
+th,td
+{
+	text-align: center;
+	border: 1px solid black;
+	width:25%;	
+}
+
+#middle{
+	width:100%;
+	height:75%;
+	background:silver;
+}
+
+#about
+{
+	width:99.4%;
+	height:25%;
+	background:DarkSeaGreen;
+	border-style: solid;
+    border-width: 1%;
+}
+
+#work
+{
+	width:99.4%;
+	height:25%;
+	background:DarkSeaGreen;
+	border-style: solid;
+    border-width: 1%;	
+}
+
+#edu
+{
+	width:99.4%;
+	height:25%;
+	background:DarkSeaGreen;
+	border-style: solid;
+    border-width: 1%;	
+}
+
+#achie
+{
+	width:99.4%;
+	height:25%;
+	background:DarkSeaGreen;
+	border-style: solid;
+    border-width: 1%;	
+}
+
+#footer
+{
+	width:99.4%;
+	height:15%;
+	background:darkSlateGrey;
+	border-style: solid;
+    border-width: 1%;	
+}
+h1
+{
+	color:white;
+	text-align: center;
+}
+h2,p
+{
+	text-align: center;
+}
